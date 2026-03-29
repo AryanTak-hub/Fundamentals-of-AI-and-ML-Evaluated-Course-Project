@@ -1,14 +1,14 @@
-# 💸 Smart Expense Tracker
+# Smart Expense Tracker
 
-## 📌 Problem
+## Problem
 
 Students often overspend due to lack of financial awareness and tracking.
 
-## 💡 Solution
+## Solution
 
 A Python-based smart expense tracker that records expenses, analyzes spending, and provides visual insights.
 
-## 🚀 Features
+## Features
 
 * Add and store expenses
 * Budget tracking with warnings
@@ -16,13 +16,13 @@ A Python-based smart expense tracker that records expenses, analyzes spending, a
 * Graph visualization of expenses
 * CSV-based data storage
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * CSV (File Handling)
 * Matplotlib (Data Visualization)
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python
 2. Install matplotlib:
@@ -30,13 +30,13 @@ A Python-based smart expense tracker that records expenses, analyzes spending, a
 3. Run the program:
    python main.py
 
-## 📊 Output
+## Output
 
 * Displays total spending
 * Shows budget warnings
 * Visual graphs for analysis
 
-## 🌟 Future Improvements
+## Future Improvements
 
 * GUI interface
 * Mobile app integration
