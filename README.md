@@ -1,14 +1,14 @@
 # Student Expense Tracker
 
-## 📌 Problem
+## Problem
 
 Students often fail to track their daily expenses, leading to overspending and poor financial management.
 
-## 💡 Solution
+## Solution
 
 This project is a Python-based Expense Tracker that allows users to record, view, and analyze their expenses efficiently.
 
-## 🚀 Features
+## Features
 
 * Add daily expenses
 * View all expenses
@@ -16,19 +16,19 @@ This project is a Python-based Expense Tracker that allows users to record, view
 * Category-wise summary
 * Data stored in CSV file
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * Python
 * CSV File Handling
 
-## ▶️ How to Run
+## How to Run
 
 1. Install Python
 2. Download the project files
 3. Run the program:
    python main.py
 
-## 📊 Output
+## Output
 
 * Displays expense list
 * Shows total expenses
